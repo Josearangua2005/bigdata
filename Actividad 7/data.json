@@ -1,0 +1,4923 @@
+[
+    {
+        "arrivals": [
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EFHK",
+                        "iata": "HEL",
+                        "name": "Helsinki",
+                        "timeZone": "Europe/Helsinki"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 04:20Z",
+                        "local": "2025-09-01 07:20+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 04:25Z",
+                        "local": "2025-09-01 07:25+03:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 05:20Z",
+                        "local": "2025-09-01 08:20+03:00"
+                    },
+                    "terminal": "2",
+                    "checkInDesk": "211",
+                    "gate": "9",
+                    "runway": "22L",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 05:30Z",
+                        "local": "2025-09-01 08:30+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 05:20Z",
+                        "local": "2025-09-01 08:20+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "AY 1071",
+                "callSign": "FIN8X",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "OH-ATI",
+                    "modeS": "4601F6",
+                    "model": "ATR 72"
+                },
+                "airline": {
+                    "name": "Finnair",
+                    "iata": "AY",
+                    "icao": "FIN"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EFHK",
+                        "iata": "HEL",
+                        "name": "Helsinki",
+                        "timeZone": "Europe/Helsinki"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 04:55Z",
+                        "local": "2025-09-01 07:55+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 04:51Z",
+                        "local": "2025-09-01 07:51+03:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 05:37Z",
+                        "local": "2025-09-01 08:37+03:00"
+                    },
+                    "terminal": "2",
+                    "checkInDesk": "420-421",
+                    "gate": "20",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 05:50Z",
+                        "local": "2025-09-01 08:50+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 05:36Z",
+                        "local": "2025-09-01 08:36+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 302",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "ESGG",
+                        "iata": "GOT",
+                        "name": "Goteborg",
+                        "timeZone": "Europe/Stockholm"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 04:35Z",
+                        "local": "2025-09-01 06:35+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 04:29Z",
+                        "local": "2025-09-01 06:29+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 04:37Z",
+                        "local": "2025-09-01 06:37+02:00"
+                    },
+                    "terminal": "1",
+                    "checkInDesk": "11-12",
+                    "gate": "12",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 05:55Z",
+                        "local": "2025-09-01 08:55+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 05:38Z",
+                        "local": "2025-09-01 08:38+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "FR 3268",
+                "callSign": "RYR52MD",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "SP-RSH",
+                    "modeS": "48C227",
+                    "model": "Boeing 737-800"
+                },
+                "airline": {
+                    "name": "Ryanair",
+                    "iata": "FR",
+                    "icao": "RYR"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EETN",
+                        "iata": "TLL",
+                        "name": "Tallinn",
+                        "timeZone": "Europe/Tallinn"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:05Z",
+                        "local": "2025-09-01 09:05+03:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:55Z",
+                        "local": "2025-09-01 09:55+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 06:42Z",
+                        "local": "2025-09-01 09:42+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 312",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Airbus A319"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EYVI",
+                        "iata": "VNO",
+                        "name": "Vilnius",
+                        "timeZone": "Europe/Vilnius"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:05Z",
+                        "local": "2025-09-01 09:05+03:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:55Z",
+                        "local": "2025-09-01 09:55+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 06:48Z",
+                        "local": "2025-09-01 09:48+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "FI 7104",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "Icelandair",
+                    "iata": "FI",
+                    "icao": "ICE"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EYVI",
+                        "iata": "VNO",
+                        "name": "Vilnius",
+                        "timeZone": "Europe/Vilnius"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:05Z",
+                        "local": "2025-09-01 09:05+03:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:55Z",
+                        "local": "2025-09-01 09:55+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 06:48Z",
+                        "local": "2025-09-01 09:48+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "TP 6392",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "TAP Air Portugal",
+                    "iata": "TP",
+                    "icao": "TAP"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EYVI",
+                        "iata": "VNO",
+                        "name": "Vilnius",
+                        "timeZone": "Europe/Vilnius"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:05Z",
+                        "local": "2025-09-01 09:05+03:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:55Z",
+                        "local": "2025-09-01 09:55+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 06:48Z",
+                        "local": "2025-09-01 09:48+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "AF 7981",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "Air France",
+                    "iata": "AF",
+                    "icao": "AFR"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EYVI",
+                        "iata": "VNO",
+                        "name": "Vilnius",
+                        "timeZone": "Europe/Vilnius"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:05Z",
+                        "local": "2025-09-01 09:05+03:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:55Z",
+                        "local": "2025-09-01 09:55+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 06:48Z",
+                        "local": "2025-09-01 09:48+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "AZ 4092",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "ITA",
+                    "iata": "AZ",
+                    "icao": "ITY"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EYVI",
+                        "iata": "VNO",
+                        "name": "Vilnius",
+                        "timeZone": "Europe/Vilnius"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:05Z",
+                        "local": "2025-09-01 09:05+03:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:55Z",
+                        "local": "2025-09-01 09:55+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 06:48Z",
+                        "local": "2025-09-01 09:48+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "A3 3211",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "Aegean",
+                    "iata": "A3",
+                    "icao": "AEE"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EYVI",
+                        "iata": "VNO",
+                        "name": "Vilnius",
+                        "timeZone": "Europe/Vilnius"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:05Z",
+                        "local": "2025-09-01 09:05+03:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:55Z",
+                        "local": "2025-09-01 09:55+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 06:48Z",
+                        "local": "2025-09-01 09:48+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 342",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "LTFM",
+                        "iata": "IST",
+                        "name": "Istanbul",
+                        "timeZone": "Europe/Istanbul"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 04:05Z",
+                        "local": "2025-09-01 07:05+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 04:05Z",
+                        "local": "2025-09-01 07:05+03:00"
+                    },
+                    "checkInDesk": "E-F",
+                    "gate": "F1A",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 07:10Z",
+                        "local": "2025-09-01 10:10+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 07:02Z",
+                        "local": "2025-09-01 10:02+03:00"
+                    },
+                    "terminal": "C",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "TK 1757",
+                "callSign": "THY2NS",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "TC-JST",
+                    "modeS": "4BAA74",
+                    "model": "Airbus A321"
+                },
+                "airline": {
+                    "name": "Turkish",
+                    "iata": "TK",
+                    "icao": "THY"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "ESSA",
+                        "iata": "ARN",
+                        "name": "Stockholm",
+                        "timeZone": "Europe/Stockholm"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:05Z",
+                        "local": "2025-09-01 08:05+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 06:20Z",
+                        "local": "2025-09-01 08:20+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 06:38Z",
+                        "local": "2025-09-01 08:38+02:00"
+                    },
+                    "terminal": "2",
+                    "checkInDesk": "25-26",
+                    "gate": "64",
+                    "runway": "19R",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 07:10Z",
+                        "local": "2025-09-01 10:10+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 07:20Z",
+                        "local": "2025-09-01 10:20+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 102",
+                "callSign": "BTI1M2",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSI",
+                    "modeS": "502CE3",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EKCH",
+                        "iata": "CPH",
+                        "name": "Copenhagen",
+                        "timeZone": "Europe/Copenhagen"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:15Z",
+                        "local": "2025-09-01 08:15+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 06:15Z",
+                        "local": "2025-09-01 08:15+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 06:34Z",
+                        "local": "2025-09-01 08:34+02:00"
+                    },
+                    "terminal": "2",
+                    "gate": "B14",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 07:40Z",
+                        "local": "2025-09-01 10:40+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 07:35Z",
+                        "local": "2025-09-01 10:35+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 132",
+                "callSign": "BTI13G",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YR-ABB",
+                    "modeS": "4A0442",
+                    "model": "Airbus A319"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EGNX",
+                        "iata": "EMA",
+                        "name": "Nottingham",
+                        "timeZone": "Europe/London"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 05:00Z",
+                        "local": "2025-09-01 06:00+01:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 05:15Z",
+                        "local": "2025-09-01 06:15+01:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 05:27Z",
+                        "local": "2025-09-01 06:27+01:00"
+                    },
+                    "terminal": "1",
+                    "gate": "19",
+                    "runway": "27",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 07:35Z",
+                        "local": "2025-09-01 10:35+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 07:39Z",
+                        "local": "2025-09-01 10:39+03:00"
+                    },
+                    "terminal": "C",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "FR 1664",
+                "callSign": "RYR86GX",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "EI-IJG",
+                    "modeS": "4CAE57",
+                    "model": "Boeing 737"
+                },
+                "airline": {
+                    "name": "Ryanair",
+                    "iata": "FR",
+                    "icao": "RYR"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "ENGM",
+                        "iata": "OSL",
+                        "name": "Oslo",
+                        "timeZone": "Europe/Oslo"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:25Z",
+                        "local": "2025-09-01 08:25+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 06:24Z",
+                        "local": "2025-09-01 08:24+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 06:37Z",
+                        "local": "2025-09-01 08:37+02:00"
+                    },
+                    "checkInDesk": "12",
+                    "gate": "D11",
+                    "runway": "19L",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 07:55Z",
+                        "local": "2025-09-01 10:55+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 07:46Z",
+                        "local": "2025-09-01 10:46+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 152",
+                "callSign": "BTI1R2",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-ABX",
+                    "modeS": "502D9F",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EDDH",
+                        "iata": "HAM",
+                        "name": "Hamburg",
+                        "timeZone": "Europe/Berlin"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:30Z",
+                        "local": "2025-09-01 08:30+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 06:30Z",
+                        "local": "2025-09-01 08:30+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 06:36Z",
+                        "local": "2025-09-01 08:36+02:00"
+                    },
+                    "terminal": "2",
+                    "checkInDesk": "10",
+                    "gate": "C15",
+                    "runway": "23",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 08:10Z",
+                        "local": "2025-09-01 11:10+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 07:55Z",
+                        "local": "2025-09-01 10:55+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 252",
+                "callSign": "BTI25K",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-ABO",
+                    "modeS": "502D79",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "LKPR",
+                        "iata": "PRG",
+                        "name": "Prague",
+                        "timeZone": "Europe/Prague"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:30Z",
+                        "local": "2025-09-01 08:30+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 06:37Z",
+                        "local": "2025-09-01 08:37+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 06:51Z",
+                        "local": "2025-09-01 08:51+02:00"
+                    },
+                    "terminal": "2",
+                    "checkInDesk": "270-271",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 08:15Z",
+                        "local": "2025-09-01 11:15+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 08:16Z",
+                        "local": "2025-09-01 11:16+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 482",
+                "callSign": "BTI8MT",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSE",
+                    "modeS": "502CCE",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EGSS",
+                        "iata": "STN",
+                        "name": "London",
+                        "timeZone": "Europe/London"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:00Z",
+                        "local": "2025-09-01 07:00+01:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 05:59Z",
+                        "local": "2025-09-01 06:59+01:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 06:11Z",
+                        "local": "2025-09-01 07:11+01:00"
+                    },
+                    "terminal": "1",
+                    "gate": "56",
+                    "runway": "22",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 08:30Z",
+                        "local": "2025-09-01 11:30+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 08:23Z",
+                        "local": "2025-09-01 11:23+03:00"
+                    },
+                    "terminal": "C",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "FR 2642",
+                "callSign": "RYR33JM",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "9H-QDF",
+                    "modeS": "4D2247",
+                    "model": "Boeing 737-800"
+                },
+                "airline": {
+                    "name": "Ryanair",
+                    "iata": "FR",
+                    "icao": "RYR"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EDDB",
+                        "iata": "BER",
+                        "name": "Berlin",
+                        "timeZone": "Europe/Berlin"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:20Z",
+                        "local": "2025-09-01 08:20+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 07:02Z",
+                        "local": "2025-09-01 09:02+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 07:13Z",
+                        "local": "2025-09-01 09:13+02:00"
+                    },
+                    "terminal": "1",
+                    "checkInDesk": "511-516",
+                    "gate": "A31",
+                    "runway": "07R",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 07:55Z",
+                        "local": "2025-09-01 10:55+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 08:26Z",
+                        "local": "2025-09-01 11:26+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 212",
+                "callSign": "BTI97T",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-ABN",
+                    "modeS": "502D5F",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "LIPH",
+                        "iata": "TSF",
+                        "name": "Treviso",
+                        "timeZone": "Europe/Rome"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:00Z",
+                        "local": "2025-09-01 08:00+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 06:14Z",
+                        "local": "2025-09-01 08:14+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 06:14Z",
+                        "local": "2025-09-01 08:14+02:00"
+                    },
+                    "runway": "25",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 08:25Z",
+                        "local": "2025-09-01 11:25+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 08:27Z",
+                        "local": "2025-09-01 11:27+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "FR 8119",
+                "callSign": "RYR8119",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "SP-RKN",
+                    "modeS": "48C12D",
+                    "model": "Boeing 737-800"
+                },
+                "airline": {
+                    "name": "Ryanair",
+                    "iata": "FR",
+                    "icao": "RYR"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "UTTT",
+                        "iata": "TAS",
+                        "name": "Tashkent",
+                        "timeZone": "Asia/Tashkent"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 03:30Z",
+                        "local": "2025-09-01 08:30+05:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 03:42Z",
+                        "local": "2025-09-01 08:42+05:00"
+                    },
+                    "terminal": "2",
+                    "checkInDesk": "35-40",
+                    "gate": "B2",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 09:00Z",
+                        "local": "2025-09-01 12:00+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 08:45Z",
+                        "local": "2025-09-01 11:45+03:00"
+                    },
+                    "terminal": "C",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "HY 211",
+                "callSign": "UZB211",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "UK32102",
+                    "modeS": "507C5F",
+                    "model": "Airbus A321 (Sharklets)"
+                },
+                "airline": {
+                    "name": "Uzbekistan",
+                    "iata": "HY",
+                    "icao": "UZB"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "LOWW",
+                        "iata": "VIE",
+                        "name": "Vienna",
+                        "timeZone": "Europe/Vienna"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:40Z",
+                        "local": "2025-09-01 08:40+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 07:10Z",
+                        "local": "2025-09-01 09:10+02:00"
+                    },
+                    "terminal": "3",
+                    "checkInDesk": "307-308",
+                    "gate": "C38",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 08:35Z",
+                        "local": "2025-09-01 11:35+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 08:50Z",
+                        "local": "2025-09-01 11:50+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "OS 7027",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Airbus A320"
+                },
+                "airline": {
+                    "name": "Austrian",
+                    "iata": "OS",
+                    "icao": "AUA"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "LOWW",
+                        "iata": "VIE",
+                        "name": "Vienna",
+                        "timeZone": "Europe/Vienna"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 06:40Z",
+                        "local": "2025-09-01 08:40+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 07:10Z",
+                        "local": "2025-09-01 09:10+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 07:11Z",
+                        "local": "2025-09-01 09:11+02:00"
+                    },
+                    "terminal": "3",
+                    "checkInDesk": "307-308",
+                    "gate": "C38",
+                    "runway": "29",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 08:35Z",
+                        "local": "2025-09-01 11:35+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 08:50Z",
+                        "local": "2025-09-01 11:50+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 272",
+                "callSign": "BTI7KL",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YR-ABC",
+                    "modeS": "4A0443",
+                    "model": "Airbus A320"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EDDM",
+                        "iata": "MUC",
+                        "name": "Munich",
+                        "timeZone": "Europe/Berlin"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 07:00Z",
+                        "local": "2025-09-01 09:00+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 07:25Z",
+                        "local": "2025-09-01 09:25+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 07:41Z",
+                        "local": "2025-09-01 09:41+02:00"
+                    },
+                    "terminal": "2",
+                    "runway": "26R",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 09:05Z",
+                        "local": "2025-09-01 12:05+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 09:25Z",
+                        "local": "2025-09-01 12:25+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "AC 6466",
+                "callSign": "BTI8ED",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSC",
+                    "modeS": "502CC8",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "Air Canada",
+                    "iata": "AC",
+                    "icao": "ACA"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EDDM",
+                        "iata": "MUC",
+                        "name": "Munich",
+                        "timeZone": "Europe/Berlin"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 07:00Z",
+                        "local": "2025-09-01 09:00+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 07:25Z",
+                        "local": "2025-09-01 09:25+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 07:41Z",
+                        "local": "2025-09-01 09:41+02:00"
+                    },
+                    "terminal": "2",
+                    "runway": "26R",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 09:05Z",
+                        "local": "2025-09-01 12:05+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 09:25Z",
+                        "local": "2025-09-01 12:25+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "LH 4452",
+                "callSign": "BTI8ED",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSC",
+                    "modeS": "502CC8",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "Lufthansa",
+                    "iata": "LH",
+                    "icao": "DLH"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EDDM",
+                        "iata": "MUC",
+                        "name": "Munich",
+                        "timeZone": "Europe/Berlin"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 07:00Z",
+                        "local": "2025-09-01 09:00+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 07:25Z",
+                        "local": "2025-09-01 09:25+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 07:41Z",
+                        "local": "2025-09-01 09:41+02:00"
+                    },
+                    "terminal": "2",
+                    "runway": "26R",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 09:05Z",
+                        "local": "2025-09-01 12:05+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 09:25Z",
+                        "local": "2025-09-01 12:25+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 222",
+                "callSign": "BTI8ED",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSC",
+                    "modeS": "502CC8",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EBBR",
+                        "iata": "BRU",
+                        "name": "Brussels",
+                        "timeZone": "Europe/Brussels"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 07:45Z",
+                        "local": "2025-09-01 09:45+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 07:59Z",
+                        "local": "2025-09-01 09:59+02:00"
+                    },
+                    "checkInDesk": "03",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:05Z",
+                        "local": "2025-09-01 13:05+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 09:52Z",
+                        "local": "2025-09-01 12:52+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "SN 4007",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "Brussels",
+                    "iata": "SN",
+                    "icao": "BEL"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EBBR",
+                        "iata": "BRU",
+                        "name": "Brussels",
+                        "timeZone": "Europe/Brussels"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 07:45Z",
+                        "local": "2025-09-01 09:45+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 07:59Z",
+                        "local": "2025-09-01 09:59+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 08:02Z",
+                        "local": "2025-09-01 10:02+02:00"
+                    },
+                    "checkInDesk": "03",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:05Z",
+                        "local": "2025-09-01 13:05+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 09:52Z",
+                        "local": "2025-09-01 12:52+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 602",
+                "callSign": "BTI60L",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-AAU",
+                    "modeS": "502D23",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EBBR",
+                        "iata": "BRU",
+                        "name": "Brussels",
+                        "timeZone": "Europe/Brussels"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 07:45Z",
+                        "local": "2025-09-01 09:45+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 07:59Z",
+                        "local": "2025-09-01 09:59+02:00"
+                    },
+                    "checkInDesk": "03",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:05Z",
+                        "local": "2025-09-01 13:05+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 09:52Z",
+                        "local": "2025-09-01 12:52+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "AC 6484",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "Air Canada",
+                    "iata": "AC",
+                    "icao": "ACA"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "ENTO",
+                        "iata": "TRF",
+                        "name": "Torp",
+                        "timeZone": "Europe/Oslo"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 08:45Z",
+                        "local": "2025-09-01 10:45+02:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:15Z",
+                        "local": "2025-09-01 13:15+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 09:56Z",
+                        "local": "2025-09-01 12:56+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "FR 2870",
+                "callSign": "RYR476L",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "SP-RSH",
+                    "modeS": "48C227",
+                    "model": "Boeing 737-800"
+                },
+                "airline": {
+                    "name": "Ryanair",
+                    "iata": "FR",
+                    "icao": "RYR"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EPWA",
+                        "iata": "WAW",
+                        "name": "Warsaw",
+                        "timeZone": "Europe/Warsaw"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 08:55Z",
+                        "local": "2025-09-01 10:55+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 08:55Z",
+                        "local": "2025-09-01 10:55+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 09:10Z",
+                        "local": "2025-09-01 11:10+02:00"
+                    },
+                    "terminal": "E-D",
+                    "checkInDesk": "241-280",
+                    "gate": "1",
+                    "runway": "29",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:15Z",
+                        "local": "2025-09-01 13:15+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 10:08Z",
+                        "local": "2025-09-01 13:08+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "LO 783",
+                "callSign": "LOT7LK",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "SP-LDK",
+                    "modeS": "48978A",
+                    "model": "Embraer 170"
+                },
+                "airline": {
+                    "name": "LOT - Polish",
+                    "iata": "LO",
+                    "icao": "LOT"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "LDSP",
+                        "iata": "SPU",
+                        "name": "Split",
+                        "timeZone": "Europe/Zagreb"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 07:45Z",
+                        "local": "2025-09-01 09:45+02:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:20Z",
+                        "local": "2025-09-01 13:20+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 10:16Z",
+                        "local": "2025-09-01 13:16+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 494",
+                "callSign": "BTI4GV",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-AAY",
+                    "modeS": "502D29",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EDDF",
+                        "iata": "FRA",
+                        "name": "Frankfurt-am-Main",
+                        "timeZone": "Europe/Berlin"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 07:50Z",
+                        "local": "2025-09-01 09:50+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 07:50Z",
+                        "local": "2025-09-01 09:50+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 08:32Z",
+                        "local": "2025-09-01 10:32+02:00"
+                    },
+                    "terminal": "2",
+                    "checkInDesk": "890-891",
+                    "gate": "E22",
+                    "runway": "25C",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:00Z",
+                        "local": "2025-09-01 13:00+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 10:19Z",
+                        "local": "2025-09-01 13:19+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 244",
+                "callSign": "BTI7EG",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSF",
+                    "modeS": "502CCF",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EDDF",
+                        "iata": "FRA",
+                        "name": "Frankfurt-am-Main",
+                        "timeZone": "Europe/Berlin"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 07:50Z",
+                        "local": "2025-09-01 09:50+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 07:50Z",
+                        "local": "2025-09-01 09:50+02:00"
+                    },
+                    "terminal": "2",
+                    "checkInDesk": "890-891",
+                    "gate": "E22",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:00Z",
+                        "local": "2025-09-01 13:00+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 10:19Z",
+                        "local": "2025-09-01 13:19+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "DL 7295",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSF",
+                    "modeS": "502CCF",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "Delta Air Lines",
+                    "iata": "DL",
+                    "icao": "DAL"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EFHK",
+                        "iata": "HEL",
+                        "name": "Helsinki",
+                        "timeZone": "Europe/Helsinki"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 09:30Z",
+                        "local": "2025-09-01 12:30+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 09:29Z",
+                        "local": "2025-09-01 12:29+03:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 10:25Z",
+                        "local": "2025-09-01 13:25+03:00"
+                    },
+                    "terminal": "2",
+                    "checkInDesk": "211",
+                    "gate": "11",
+                    "runway": "22L",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:40Z",
+                        "local": "2025-09-01 13:40+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 10:25Z",
+                        "local": "2025-09-01 13:25+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "AY 1073",
+                "callSign": "FIN1KE",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "OH-ATN",
+                    "modeS": "4601FB",
+                    "model": "ATR 72"
+                },
+                "airline": {
+                    "name": "Finnair",
+                    "iata": "AY",
+                    "icao": "FIN"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EDDF",
+                        "iata": "FRA",
+                        "name": "Frankfurt-am-Main",
+                        "timeZone": "Europe/Berlin"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 08:00Z",
+                        "local": "2025-09-01 10:00+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 08:15Z",
+                        "local": "2025-09-01 10:15+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 08:43Z",
+                        "local": "2025-09-01 10:43+02:00"
+                    },
+                    "terminal": "1",
+                    "checkInDesk": "259-335",
+                    "gate": "B6",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:05Z",
+                        "local": "2025-09-01 13:05+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 10:26Z",
+                        "local": "2025-09-01 13:26+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "LH 890",
+                "callSign": "DLH890",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "D-AILI",
+                    "modeS": "3C6589",
+                    "model": "Airbus A319"
+                },
+                "airline": {
+                    "name": "Lufthansa",
+                    "iata": "LH",
+                    "icao": "DLH"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "LFPG",
+                        "iata": "CDG",
+                        "name": "Paris",
+                        "timeZone": "Europe/Paris"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 07:50Z",
+                        "local": "2025-09-01 09:50+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 08:31Z",
+                        "local": "2025-09-01 10:31+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 08:31Z",
+                        "local": "2025-09-01 10:31+02:00"
+                    },
+                    "terminal": "2B",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:30Z",
+                        "local": "2025-09-01 13:30+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 10:38Z",
+                        "local": "2025-09-01 13:38+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 692",
+                "callSign": "BTI69R",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSK",
+                    "modeS": "502CE5",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "LFPG",
+                        "iata": "CDG",
+                        "name": "Paris",
+                        "timeZone": "Europe/Paris"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 07:50Z",
+                        "local": "2025-09-01 09:50+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 08:31Z",
+                        "local": "2025-09-01 10:31+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 08:31Z",
+                        "local": "2025-09-01 10:31+02:00"
+                    },
+                    "terminal": "2B",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:30Z",
+                        "local": "2025-09-01 13:30+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 10:38Z",
+                        "local": "2025-09-01 13:38+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "AF 7982",
+                "callSign": "BTI69R",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSK",
+                    "modeS": "502CE5",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "Air France",
+                    "iata": "AF",
+                    "icao": "AFR"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "LFPG",
+                        "iata": "CDG",
+                        "name": "Paris",
+                        "timeZone": "Europe/Paris"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 07:50Z",
+                        "local": "2025-09-01 09:50+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 08:31Z",
+                        "local": "2025-09-01 10:31+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 08:31Z",
+                        "local": "2025-09-01 10:31+02:00"
+                    },
+                    "terminal": "2B",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:30Z",
+                        "local": "2025-09-01 13:30+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 10:38Z",
+                        "local": "2025-09-01 13:38+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "KM 2826",
+                "callSign": "BTI69R",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSK",
+                    "modeS": "502CE5",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "KM Malta",
+                    "iata": "KM",
+                    "icao": "KMM"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "LFPG",
+                        "iata": "CDG",
+                        "name": "Paris",
+                        "timeZone": "Europe/Paris"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 07:50Z",
+                        "local": "2025-09-01 09:50+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 08:31Z",
+                        "local": "2025-09-01 10:31+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 08:31Z",
+                        "local": "2025-09-01 10:31+02:00"
+                    },
+                    "terminal": "2B",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:30Z",
+                        "local": "2025-09-01 13:30+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 10:38Z",
+                        "local": "2025-09-01 13:38+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "DL 7303",
+                "callSign": "BTI69R",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSK",
+                    "modeS": "502CE5",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "Delta Air Lines",
+                    "iata": "DL",
+                    "icao": "DAL"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EHAM",
+                        "iata": "AMS",
+                        "name": "Amsterdam",
+                        "timeZone": "Europe/Amsterdam"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 08:00Z",
+                        "local": "2025-09-01 10:00+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 08:44Z",
+                        "local": "2025-09-01 10:44+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 09:00Z",
+                        "local": "2025-09-01 11:00+02:00"
+                    },
+                    "terminal": "3",
+                    "gate": "B5",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:10Z",
+                        "local": "2025-09-01 13:10+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 10:50Z",
+                        "local": "2025-09-01 13:50+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "JU 7964",
+                "callSign": "BTI6RZ",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-AAR",
+                    "modeS": "502D0E",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "JU"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EHAM",
+                        "iata": "AMS",
+                        "name": "Amsterdam",
+                        "timeZone": "Europe/Amsterdam"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 08:00Z",
+                        "local": "2025-09-01 10:00+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 08:44Z",
+                        "local": "2025-09-01 10:44+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 09:00Z",
+                        "local": "2025-09-01 11:00+02:00"
+                    },
+                    "terminal": "3",
+                    "gate": "B5",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:10Z",
+                        "local": "2025-09-01 13:10+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 10:50Z",
+                        "local": "2025-09-01 13:50+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 618",
+                "callSign": "BTI6RZ",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-AAR",
+                    "modeS": "502D0E",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EHAM",
+                        "iata": "AMS",
+                        "name": "Amsterdam",
+                        "timeZone": "Europe/Amsterdam"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 08:00Z",
+                        "local": "2025-09-01 10:00+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 08:44Z",
+                        "local": "2025-09-01 10:44+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 09:00Z",
+                        "local": "2025-09-01 11:00+02:00"
+                    },
+                    "terminal": "3",
+                    "gate": "B5",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:10Z",
+                        "local": "2025-09-01 13:10+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 10:50Z",
+                        "local": "2025-09-01 13:50+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "EK 3508",
+                "callSign": "BTI6RZ",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-AAR",
+                    "modeS": "502D0E",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "Emirates",
+                    "iata": "EK",
+                    "icao": "UAE"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EHAM",
+                        "iata": "AMS",
+                        "name": "Amsterdam",
+                        "timeZone": "Europe/Amsterdam"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 08:00Z",
+                        "local": "2025-09-01 10:00+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 08:44Z",
+                        "local": "2025-09-01 10:44+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 09:00Z",
+                        "local": "2025-09-01 11:00+02:00"
+                    },
+                    "terminal": "3",
+                    "gate": "B5",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:10Z",
+                        "local": "2025-09-01 13:10+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 10:50Z",
+                        "local": "2025-09-01 13:50+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "KL 3091",
+                "callSign": "BTI6RZ",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-AAR",
+                    "modeS": "502D0E",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "KLM",
+                    "iata": "KL",
+                    "icao": "KLM"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EHAM",
+                        "iata": "AMS",
+                        "name": "Amsterdam",
+                        "timeZone": "Europe/Amsterdam"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 08:00Z",
+                        "local": "2025-09-01 10:00+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 08:44Z",
+                        "local": "2025-09-01 10:44+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 09:00Z",
+                        "local": "2025-09-01 11:00+02:00"
+                    },
+                    "terminal": "3",
+                    "gate": "B5",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:10Z",
+                        "local": "2025-09-01 13:10+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 10:50Z",
+                        "local": "2025-09-01 13:50+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "DL 7299",
+                "callSign": "BTI6RZ",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-AAR",
+                    "modeS": "502D0E",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "Delta Air Lines",
+                    "iata": "DL",
+                    "icao": "DAL"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EGKK",
+                        "iata": "LGW",
+                        "name": "London",
+                        "timeZone": "Europe/London"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 08:20Z",
+                        "local": "2025-09-01 09:20+01:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 08:52Z",
+                        "local": "2025-09-01 09:52+01:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 08:53Z",
+                        "local": "2025-09-01 09:53+01:00"
+                    },
+                    "terminal": "S",
+                    "runway": "26L",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 11:00Z",
+                        "local": "2025-09-01 14:00+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 11:01Z",
+                        "local": "2025-09-01 14:01+03:00"
+                    },
+                    "terminal": "C",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "D8 2117",
+                "callSign": "NSZ2117",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "SE-RTC",
+                    "modeS": "4ACA83",
+                    "model": "Boeing 737"
+                },
+                "airline": {
+                    "name": "Norwegian Air Sweden",
+                    "iata": "D8",
+                    "icao": "NSZ"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EGKK",
+                        "iata": "LGW",
+                        "name": "London",
+                        "timeZone": "Europe/London"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 08:10Z",
+                        "local": "2025-09-01 09:10+01:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 09:03Z",
+                        "local": "2025-09-01 10:03+01:00"
+                    },
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:50Z",
+                        "local": "2025-09-01 13:50+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 11:15Z",
+                        "local": "2025-09-01 14:15+03:00"
+                    },
+                    "terminal": "C",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BA 2240",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "British",
+                    "iata": "BA",
+                    "icao": "BAW"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EGKK",
+                        "iata": "LGW",
+                        "name": "London",
+                        "timeZone": "Europe/London"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 08:10Z",
+                        "local": "2025-09-01 09:10+01:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 09:03Z",
+                        "local": "2025-09-01 10:03+01:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 09:04Z",
+                        "local": "2025-09-01 10:04+01:00"
+                    },
+                    "terminal": "S",
+                    "runway": "26L",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:50Z",
+                        "local": "2025-09-01 13:50+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 11:15Z",
+                        "local": "2025-09-01 14:15+03:00"
+                    },
+                    "terminal": "C",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 652",
+                "callSign": "BTI65T",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSL",
+                    "modeS": "502CE6",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EKBI",
+                        "iata": "BLL",
+                        "name": "Billund",
+                        "timeZone": "Europe/Copenhagen"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:00Z",
+                        "local": "2025-09-01 12:00+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 10:08Z",
+                        "local": "2025-09-01 12:08+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 10:08Z",
+                        "local": "2025-09-01 12:08+02:00"
+                    },
+                    "runway": "09",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 11:35Z",
+                        "local": "2025-09-01 14:35+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 11:26Z",
+                        "local": "2025-09-01 14:26+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "SK 9624",
+                "callSign": "BTI4LF",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSM",
+                    "modeS": "502CE7",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "SAS",
+                    "iata": "SK",
+                    "icao": "SAS"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EKBI",
+                        "iata": "BLL",
+                        "name": "Billund",
+                        "timeZone": "Europe/Copenhagen"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:00Z",
+                        "local": "2025-09-01 12:00+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 10:08Z",
+                        "local": "2025-09-01 12:08+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 10:08Z",
+                        "local": "2025-09-01 12:08+02:00"
+                    },
+                    "runway": "09",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 11:35Z",
+                        "local": "2025-09-01 14:35+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 11:26Z",
+                        "local": "2025-09-01 14:26+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 148",
+                "callSign": "BTI4LF",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSM",
+                    "modeS": "502CE7",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "OMDB",
+                        "iata": "DXB",
+                        "name": "Dubai",
+                        "timeZone": "Asia/Dubai"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 05:00Z",
+                        "local": "2025-09-01 09:00+04:00"
+                    },
+                    "terminal": "1",
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:30Z",
+                        "local": "2025-09-01 15:30+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 11:52Z",
+                        "local": "2025-09-01 14:52+03:00"
+                    },
+                    "terminal": "C",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 792",
+                "callSign": "BTI792",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSJ",
+                    "modeS": "502CE4",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EETN",
+                        "iata": "TLL",
+                        "name": "Tallinn",
+                        "timeZone": "Europe/Tallinn"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:55Z",
+                        "local": "2025-09-01 13:55+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 11:32Z",
+                        "local": "2025-09-01 14:32+03:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 11:32Z",
+                        "local": "2025-09-01 14:32+03:00"
+                    },
+                    "runway": "08",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 11:45Z",
+                        "local": "2025-09-01 14:45+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 12:00Z",
+                        "local": "2025-09-01 15:00+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 316",
+                "callSign": "BTI31B",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-ABI",
+                    "modeS": "502D5A",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "ENGM",
+                        "iata": "OSL",
+                        "name": "Oslo",
+                        "timeZone": "Europe/Oslo"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 11:15Z",
+                        "local": "2025-09-01 13:15+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 11:06Z",
+                        "local": "2025-09-01 13:06+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 11:18Z",
+                        "local": "2025-09-01 13:18+02:00"
+                    },
+                    "checkInDesk": "123",
+                    "gate": "E8",
+                    "runway": "19L",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:45Z",
+                        "local": "2025-09-01 15:45+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 12:27Z",
+                        "local": "2025-09-01 15:27+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "D8 2003",
+                "callSign": "NSZ2003",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "SE-RXC",
+                    "modeS": "4ACB03",
+                    "model": "Boeing 737-800"
+                },
+                "airline": {
+                    "name": "Norwegian Air Sweden",
+                    "iata": "D8",
+                    "icao": "NSZ"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EGLL",
+                        "iata": "LHR",
+                        "name": "London",
+                        "timeZone": "Europe/London"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 09:40Z",
+                        "local": "2025-09-01 10:40+01:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 10:21Z",
+                        "local": "2025-09-01 11:21+01:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 10:22Z",
+                        "local": "2025-09-01 11:22+01:00"
+                    },
+                    "terminal": "5",
+                    "checkInDesk": "C",
+                    "runway": "27R",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:25Z",
+                        "local": "2025-09-01 15:25+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 12:33Z",
+                        "local": "2025-09-01 15:33+03:00"
+                    },
+                    "terminal": "C",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BA 880",
+                "callSign": "BAW880X",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "G-TNEA",
+                    "modeS": "407FC9",
+                    "model": "Airbus A320"
+                },
+                "airline": {
+                    "name": "British",
+                    "iata": "BA",
+                    "icao": "BAW"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EGLL",
+                        "iata": "LHR",
+                        "name": "London",
+                        "timeZone": "Europe/London"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 09:40Z",
+                        "local": "2025-09-01 10:40+01:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 10:21Z",
+                        "local": "2025-09-01 11:21+01:00"
+                    },
+                    "terminal": "5",
+                    "checkInDesk": "C",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:25Z",
+                        "local": "2025-09-01 15:25+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 12:33Z",
+                        "local": "2025-09-01 15:33+03:00"
+                    },
+                    "terminal": "C",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 5860",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Airbus A320"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "LIRP",
+                        "iata": "PSA",
+                        "name": "Pisa",
+                        "timeZone": "Europe/Rome"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:00Z",
+                        "local": "2025-09-01 12:00+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 10:17Z",
+                        "local": "2025-09-01 12:17+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 10:17Z",
+                        "local": "2025-09-01 12:17+02:00"
+                    },
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:45Z",
+                        "local": "2025-09-01 15:45+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 12:34Z",
+                        "local": "2025-09-01 15:34+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 648",
+                "callSign": "BTI72C",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSN",
+                    "modeS": "502CE8",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EYPA",
+                        "iata": "PLQ",
+                        "name": "Palanga",
+                        "timeZone": "Europe/Vilnius"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:35Z",
+                        "local": "2025-09-01 15:35+03:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 13:15Z",
+                        "local": "2025-09-01 16:15+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 12:57Z",
+                        "local": "2025-09-01 15:57+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 374",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "LHBP",
+                        "iata": "BUD",
+                        "name": "Budapest",
+                        "timeZone": "Europe/Budapest"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 11:10Z",
+                        "local": "2025-09-01 13:10+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 11:33Z",
+                        "local": "2025-09-01 13:33+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 11:34Z",
+                        "local": "2025-09-01 13:34+02:00"
+                    },
+                    "terminal": "2A",
+                    "runway": "31L",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 13:05Z",
+                        "local": "2025-09-01 16:05+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 13:02Z",
+                        "local": "2025-09-01 16:02+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 492",
+                "callSign": "BTI6YC",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-ABX",
+                    "modeS": "502D9F",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "LHBP",
+                        "iata": "BUD",
+                        "name": "Budapest",
+                        "timeZone": "Europe/Budapest"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 11:10Z",
+                        "local": "2025-09-01 13:10+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 11:33Z",
+                        "local": "2025-09-01 13:33+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 11:34Z",
+                        "local": "2025-09-01 13:34+02:00"
+                    },
+                    "terminal": "2A",
+                    "runway": "31L",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 13:05Z",
+                        "local": "2025-09-01 16:05+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 13:02Z",
+                        "local": "2025-09-01 16:02+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "A3 3257",
+                "callSign": "BTI6YC",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-ABX",
+                    "modeS": "502D9F",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "Aegean",
+                    "iata": "A3",
+                    "icao": "AEE"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EGNM",
+                        "iata": "LBA",
+                        "name": "Leeds",
+                        "timeZone": "Europe/London"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 10:45Z",
+                        "local": "2025-09-01 11:45+01:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 10:40Z",
+                        "local": "2025-09-01 11:40+01:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 10:53Z",
+                        "local": "2025-09-01 11:53+01:00"
+                    },
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 13:20Z",
+                        "local": "2025-09-01 16:20+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 13:10Z",
+                        "local": "2025-09-01 16:10+03:00"
+                    },
+                    "terminal": "C",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "FR 2482",
+                "callSign": "RYR4954",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "9H-QFJ",
+                    "modeS": "4D207D",
+                    "model": "Boeing 737-800"
+                },
+                "airline": {
+                    "name": "Ryanair",
+                    "iata": "FR",
+                    "icao": "RYR"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EFTP",
+                        "iata": "TMP",
+                        "name": "Tampere / Pirkkala",
+                        "timeZone": "Europe/Helsinki"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:25Z",
+                        "local": "2025-09-01 15:25+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 12:34Z",
+                        "local": "2025-09-01 15:34+03:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 12:34Z",
+                        "local": "2025-09-01 15:34+03:00"
+                    },
+                    "terminal": "1",
+                    "gate": "1",
+                    "runway": "24",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 13:25Z",
+                        "local": "2025-09-01 16:25+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 13:21Z",
+                        "local": "2025-09-01 16:21+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 356",
+                "callSign": "BTI3MD",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-AAU",
+                    "modeS": "502D23",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EFTP",
+                        "iata": "TMP",
+                        "name": "Tampere / Pirkkala",
+                        "timeZone": "Europe/Helsinki"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:25Z",
+                        "local": "2025-09-01 15:25+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 12:34Z",
+                        "local": "2025-09-01 15:34+03:00"
+                    },
+                    "terminal": "1",
+                    "gate": "1",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 13:25Z",
+                        "local": "2025-09-01 16:25+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 13:21Z",
+                        "local": "2025-09-01 16:21+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "AF 7009",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "Air France",
+                    "iata": "AF",
+                    "icao": "AFR"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EFHK",
+                        "iata": "HEL",
+                        "name": "Helsinki",
+                        "timeZone": "Europe/Helsinki"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:30Z",
+                        "local": "2025-09-01 15:30+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 12:49Z",
+                        "local": "2025-09-01 15:49+03:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 13:39Z",
+                        "local": "2025-09-01 16:39+03:00"
+                    },
+                    "terminal": "2",
+                    "checkInDesk": "420-421",
+                    "gate": "20",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 13:25Z",
+                        "local": "2025-09-01 16:25+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 13:42Z",
+                        "local": "2025-09-01 16:42+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 304",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EYVI",
+                        "iata": "VNO",
+                        "name": "Vilnius",
+                        "timeZone": "Europe/Vilnius"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:10Z",
+                        "local": "2025-09-01 15:10+03:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 13:00Z",
+                        "local": "2025-09-01 16:00+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 13:46Z",
+                        "local": "2025-09-01 16:46+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "A3 3233",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "Aegean",
+                    "iata": "A3",
+                    "icao": "AEE"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EYVI",
+                        "iata": "VNO",
+                        "name": "Vilnius",
+                        "timeZone": "Europe/Vilnius"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:10Z",
+                        "local": "2025-09-01 15:10+03:00"
+                    },
+                    "quality": [
+                        "Basic"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 13:00Z",
+                        "local": "2025-09-01 16:00+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 13:46Z",
+                        "local": "2025-09-01 16:46+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 344",
+                "callSign": "BTI34G",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-AAP",
+                    "modeS": "502D0C",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EIDW",
+                        "iata": "DUB",
+                        "name": "Dublin",
+                        "timeZone": "Europe/Dublin"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 09:50Z",
+                        "local": "2025-09-01 10:50+01:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 11:11Z",
+                        "local": "2025-09-01 12:11+01:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 11:11Z",
+                        "local": "2025-09-01 12:11+01:00"
+                    },
+                    "terminal": "1",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:50Z",
+                        "local": "2025-09-01 15:50+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 13:59Z",
+                        "local": "2025-09-01 16:59+03:00"
+                    },
+                    "terminal": "C",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "FR 1976",
+                "callSign": "RYR68CD",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "EI-IKH",
+                    "modeS": "4CAE94",
+                    "model": "Boeing 737 MAX 8"
+                },
+                "airline": {
+                    "name": "Ryanair",
+                    "iata": "FR",
+                    "icao": "RYR"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EPKK",
+                        "iata": "KRK",
+                        "name": "Krak\u00f3w",
+                        "timeZone": "Europe/Warsaw"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:55Z",
+                        "local": "2025-09-01 14:55+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 12:55Z",
+                        "local": "2025-09-01 14:55+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 12:56Z",
+                        "local": "2025-09-01 14:56+02:00"
+                    },
+                    "checkInDesk": "21-29",
+                    "runway": "25",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 14:30Z",
+                        "local": "2025-09-01 17:30+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 14:08Z",
+                        "local": "2025-09-01 17:08+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "FR 5428",
+                "callSign": "RYR5428",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "SP-RSH",
+                    "modeS": "48C227",
+                    "model": "Boeing 737-800"
+                },
+                "airline": {
+                    "name": "Ryanair",
+                    "iata": "FR",
+                    "icao": "RYR"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EFHK",
+                        "iata": "HEL",
+                        "name": "Helsinki",
+                        "timeZone": "Europe/Helsinki"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 13:20Z",
+                        "local": "2025-09-01 16:20+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 13:22Z",
+                        "local": "2025-09-01 16:22+03:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 14:23Z",
+                        "local": "2025-09-01 17:23+03:00"
+                    },
+                    "terminal": "2",
+                    "checkInDesk": "211",
+                    "gate": "13A",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 14:30Z",
+                        "local": "2025-09-01 17:30+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 14:23Z",
+                        "local": "2025-09-01 17:23+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "AY 1075",
+                "callSign": "FIN8ZE",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "OH-ATJ",
+                    "modeS": "4601F7",
+                    "model": "ATR 72"
+                },
+                "airline": {
+                    "name": "Finnair",
+                    "iata": "AY",
+                    "icao": "FIN"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EHAM",
+                        "iata": "AMS",
+                        "name": "Amsterdam",
+                        "timeZone": "Europe/Amsterdam"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:05Z",
+                        "local": "2025-09-01 14:05+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 12:30Z",
+                        "local": "2025-09-01 14:30+02:00"
+                    },
+                    "terminal": "3",
+                    "gate": "C23",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 14:15Z",
+                        "local": "2025-09-01 17:15+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 14:25Z",
+                        "local": "2025-09-01 17:25+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "KL 2835",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSE",
+                    "modeS": "502CCE",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "KLM",
+                    "iata": "KL",
+                    "icao": "KLM"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EHAM",
+                        "iata": "AMS",
+                        "name": "Amsterdam",
+                        "timeZone": "Europe/Amsterdam"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:05Z",
+                        "local": "2025-09-01 14:05+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 12:30Z",
+                        "local": "2025-09-01 14:30+02:00"
+                    },
+                    "terminal": "3",
+                    "gate": "C23",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 14:15Z",
+                        "local": "2025-09-01 17:15+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 14:25Z",
+                        "local": "2025-09-01 17:25+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "KM 2812",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSE",
+                    "modeS": "502CCE",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "KM Malta",
+                    "iata": "KM",
+                    "icao": "KMM"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EHAM",
+                        "iata": "AMS",
+                        "name": "Amsterdam",
+                        "timeZone": "Europe/Amsterdam"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:05Z",
+                        "local": "2025-09-01 14:05+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 12:30Z",
+                        "local": "2025-09-01 14:30+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 12:46Z",
+                        "local": "2025-09-01 14:46+02:00"
+                    },
+                    "terminal": "3",
+                    "gate": "C23",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 14:15Z",
+                        "local": "2025-09-01 17:15+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 14:25Z",
+                        "local": "2025-09-01 17:25+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 622",
+                "callSign": "BTI79E",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSE",
+                    "modeS": "502CCE",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EHAM",
+                        "iata": "AMS",
+                        "name": "Amsterdam",
+                        "timeZone": "Europe/Amsterdam"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:05Z",
+                        "local": "2025-09-01 14:05+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 12:30Z",
+                        "local": "2025-09-01 14:30+02:00"
+                    },
+                    "terminal": "3",
+                    "gate": "C23",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 14:15Z",
+                        "local": "2025-09-01 17:15+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 14:25Z",
+                        "local": "2025-09-01 17:25+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "TP 6404",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSE",
+                    "modeS": "502CCE",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "TAP Air Portugal",
+                    "iata": "TP",
+                    "icao": "TAP"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EHAM",
+                        "iata": "AMS",
+                        "name": "Amsterdam",
+                        "timeZone": "Europe/Amsterdam"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:05Z",
+                        "local": "2025-09-01 14:05+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 12:30Z",
+                        "local": "2025-09-01 14:30+02:00"
+                    },
+                    "terminal": "3",
+                    "gate": "C23",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 14:15Z",
+                        "local": "2025-09-01 17:15+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 14:25Z",
+                        "local": "2025-09-01 17:25+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "EK 3492",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSE",
+                    "modeS": "502CCE",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "Emirates",
+                    "iata": "EK",
+                    "icao": "UAE"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EHAM",
+                        "iata": "AMS",
+                        "name": "Amsterdam",
+                        "timeZone": "Europe/Amsterdam"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:05Z",
+                        "local": "2025-09-01 14:05+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 12:30Z",
+                        "local": "2025-09-01 14:30+02:00"
+                    },
+                    "terminal": "3",
+                    "gate": "C23",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 14:15Z",
+                        "local": "2025-09-01 17:15+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 14:25Z",
+                        "local": "2025-09-01 17:25+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "RO 9266",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSE",
+                    "modeS": "502CCE",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "TAROM",
+                    "iata": "RO",
+                    "icao": "ROT"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EPWA",
+                        "iata": "WAW",
+                        "name": "Warsaw",
+                        "timeZone": "Europe/Warsaw"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 13:25Z",
+                        "local": "2025-09-01 15:25+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 13:25Z",
+                        "local": "2025-09-01 15:25+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 13:33Z",
+                        "local": "2025-09-01 15:33+02:00"
+                    },
+                    "terminal": "E-D",
+                    "checkInDesk": "241-280",
+                    "gate": "28",
+                    "runway": "29",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 14:45Z",
+                        "local": "2025-09-01 17:45+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 14:29Z",
+                        "local": "2025-09-01 17:29+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "LO 781",
+                "callSign": "LOT7RM",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "SP-LIN",
+                    "modeS": "48AD0D",
+                    "model": "Embraer 175"
+                },
+                "airline": {
+                    "name": "LOT - Polish",
+                    "iata": "LO",
+                    "icao": "LOT"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "name": "Chisinau"
+                    },
+                    "quality": []
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 14:25Z",
+                        "local": "2025-09-01 17:25+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 14:30Z",
+                        "local": "2025-09-01 17:30+03:00"
+                    },
+                    "terminal": "C",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 421",
+                "callSign": "BTI421",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-ABO",
+                    "modeS": "502D79",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "LROP",
+                        "iata": "OTP",
+                        "name": "Bucharest",
+                        "timeZone": "Europe/Bucharest"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:10Z",
+                        "local": "2025-09-01 15:10+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 12:33Z",
+                        "local": "2025-09-01 15:33+03:00"
+                    },
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 14:35Z",
+                        "local": "2025-09-01 17:35+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 14:32Z",
+                        "local": "2025-09-01 17:32+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "RO 9243",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "TAROM",
+                    "iata": "RO",
+                    "icao": "ROT"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "LROP",
+                        "iata": "OTP",
+                        "name": "Bucharest",
+                        "timeZone": "Europe/Bucharest"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:10Z",
+                        "local": "2025-09-01 15:10+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 12:33Z",
+                        "local": "2025-09-01 15:33+03:00"
+                    },
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 14:35Z",
+                        "local": "2025-09-01 17:35+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 14:32Z",
+                        "local": "2025-09-01 17:32+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 758",
+                "callSign": "BTI6GN",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-ABN",
+                    "modeS": "502D5F",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EDDL",
+                        "iata": "DUS",
+                        "name": "D\u00fcsseldorf",
+                        "timeZone": "Europe/Berlin"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:40Z",
+                        "local": "2025-09-01 14:40+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 12:52Z",
+                        "local": "2025-09-01 14:52+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 13:04Z",
+                        "local": "2025-09-01 15:04+02:00"
+                    },
+                    "terminal": "B",
+                    "gate": "B31",
+                    "runway": "23L",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 14:45Z",
+                        "local": "2025-09-01 17:45+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 14:45Z",
+                        "local": "2025-09-01 17:45+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "IB 7842",
+                "callSign": "BTI3DV",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSC",
+                    "modeS": "502CC8",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "Iberia",
+                    "iata": "IB",
+                    "icao": "IBE"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EDDL",
+                        "iata": "DUS",
+                        "name": "D\u00fcsseldorf",
+                        "timeZone": "Europe/Berlin"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:40Z",
+                        "local": "2025-09-01 14:40+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 12:52Z",
+                        "local": "2025-09-01 14:52+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 13:04Z",
+                        "local": "2025-09-01 15:04+02:00"
+                    },
+                    "terminal": "B",
+                    "gate": "B31",
+                    "runway": "23L",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 14:45Z",
+                        "local": "2025-09-01 17:45+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 14:45Z",
+                        "local": "2025-09-01 17:45+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "TP 6416",
+                "callSign": "BTI3DV",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSC",
+                    "modeS": "502CC8",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "TAP Air Portugal",
+                    "iata": "TP",
+                    "icao": "TAP"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EDDL",
+                        "iata": "DUS",
+                        "name": "D\u00fcsseldorf",
+                        "timeZone": "Europe/Berlin"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:40Z",
+                        "local": "2025-09-01 14:40+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 12:52Z",
+                        "local": "2025-09-01 14:52+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 13:04Z",
+                        "local": "2025-09-01 15:04+02:00"
+                    },
+                    "terminal": "B",
+                    "gate": "B31",
+                    "runway": "23L",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 14:45Z",
+                        "local": "2025-09-01 17:45+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 14:45Z",
+                        "local": "2025-09-01 17:45+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 234",
+                "callSign": "BTI3DV",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSC",
+                    "modeS": "502CC8",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "LIRF",
+                        "iata": "FCO",
+                        "name": "Rome",
+                        "timeZone": "Europe/Rome"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:15Z",
+                        "local": "2025-09-01 14:15+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 12:45Z",
+                        "local": "2025-09-01 14:45+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 12:45Z",
+                        "local": "2025-09-01 14:45+02:00"
+                    },
+                    "terminal": "1",
+                    "runway": "25",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 15:15Z",
+                        "local": "2025-09-01 18:15+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 15:15Z",
+                        "local": "2025-09-01 18:15+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 634",
+                "callSign": "BTI6GB",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YR-ABB",
+                    "modeS": "4A0442",
+                    "model": "Airbus A319"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "LTFM",
+                        "iata": "IST",
+                        "name": "Istanbul",
+                        "timeZone": "Europe/Istanbul"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:40Z",
+                        "local": "2025-09-01 15:40+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 13:00Z",
+                        "local": "2025-09-01 16:00+03:00"
+                    },
+                    "checkInDesk": "S13-S15",
+                    "gate": "F2",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 15:40Z",
+                        "local": "2025-09-01 18:40+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 15:49Z",
+                        "local": "2025-09-01 18:49+03:00"
+                    },
+                    "terminal": "C",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 712",
+                "callSign": "BTI712",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-CSI",
+                    "modeS": "502CE3",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "LTFM",
+                        "iata": "IST",
+                        "name": "Istanbul",
+                        "timeZone": "Europe/Istanbul"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:40Z",
+                        "local": "2025-09-01 15:40+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 13:00Z",
+                        "local": "2025-09-01 16:00+03:00"
+                    },
+                    "checkInDesk": "S13-S15",
+                    "gate": "F2",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 15:40Z",
+                        "local": "2025-09-01 18:40+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 15:49Z",
+                        "local": "2025-09-01 18:49+03:00"
+                    },
+                    "terminal": "C",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "TK 9497",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "Turkish",
+                    "iata": "TK",
+                    "icao": "THY"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "LTFM",
+                        "iata": "IST",
+                        "name": "Istanbul",
+                        "timeZone": "Europe/Istanbul"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:50Z",
+                        "local": "2025-09-01 15:50+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 13:00Z",
+                        "local": "2025-09-01 16:00+03:00"
+                    },
+                    "gate": "F3B",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 15:55Z",
+                        "local": "2025-09-01 18:55+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 16:01Z",
+                        "local": "2025-09-01 19:01+03:00"
+                    },
+                    "terminal": "C",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "TK 1775",
+                "callSign": "THY6UZ",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "TC-JRS",
+                    "modeS": "4BAA53",
+                    "model": "Airbus A321"
+                },
+                "airline": {
+                    "name": "Turkish",
+                    "iata": "TK",
+                    "icao": "THY"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "LTFM",
+                        "iata": "IST",
+                        "name": "Istanbul",
+                        "timeZone": "Europe/Istanbul"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:50Z",
+                        "local": "2025-09-01 15:50+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 13:00Z",
+                        "local": "2025-09-01 16:00+03:00"
+                    },
+                    "gate": "F3B",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 15:55Z",
+                        "local": "2025-09-01 18:55+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 16:01Z",
+                        "local": "2025-09-01 19:01+03:00"
+                    },
+                    "terminal": "C",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 7443",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "model": "Airbus A321"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EDDB",
+                        "iata": "BER",
+                        "name": "Berlin",
+                        "timeZone": "Europe/Berlin"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 13:25Z",
+                        "local": "2025-09-01 15:25+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 15:00Z",
+                        "local": "2025-09-01 17:00+02:00"
+                    },
+                    "terminal": "1",
+                    "checkInDesk": "514-516",
+                    "gate": "A02",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 15:00Z",
+                        "local": "2025-09-01 18:00+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 16:30Z",
+                        "local": "2025-09-01 19:30+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "A3 3229",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-ABI",
+                    "modeS": "502D5A",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "Aegean",
+                    "iata": "A3",
+                    "icao": "AEE"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EDDB",
+                        "iata": "BER",
+                        "name": "Berlin",
+                        "timeZone": "Europe/Berlin"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 13:25Z",
+                        "local": "2025-09-01 15:25+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 15:00Z",
+                        "local": "2025-09-01 17:00+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 15:11Z",
+                        "local": "2025-09-01 17:11+02:00"
+                    },
+                    "terminal": "1",
+                    "checkInDesk": "514-516",
+                    "gate": "A02",
+                    "runway": "07R",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 15:00Z",
+                        "local": "2025-09-01 18:00+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 16:30Z",
+                        "local": "2025-09-01 19:30+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 214",
+                "callSign": "BTI4UJ",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-ABI",
+                    "modeS": "502D5A",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "EDDB",
+                        "iata": "BER",
+                        "name": "Berlin",
+                        "timeZone": "Europe/Berlin"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 13:25Z",
+                        "local": "2025-09-01 15:25+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 15:00Z",
+                        "local": "2025-09-01 17:00+02:00"
+                    },
+                    "terminal": "1",
+                    "checkInDesk": "514-516",
+                    "gate": "A02",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 15:00Z",
+                        "local": "2025-09-01 18:00+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 16:30Z",
+                        "local": "2025-09-01 19:30+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "TP 6408",
+                "status": "Arrived",
+                "codeshareStatus": "IsCodeshared",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YL-ABI",
+                    "modeS": "502D5A",
+                    "model": "Airbus A220-300"
+                },
+                "airline": {
+                    "name": "TAP Air Portugal",
+                    "iata": "TP",
+                    "icao": "TAP"
+                }
+            },
+            {
+                "departure": {
+                    "airport": {
+                        "icao": "LEBL",
+                        "iata": "BCN",
+                        "name": "Barcelona",
+                        "timeZone": "Europe/Madrid"
+                    },
+                    "scheduledTime": {
+                        "utc": "2025-09-01 12:25Z",
+                        "local": "2025-09-01 14:25+02:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 13:04Z",
+                        "local": "2025-09-01 15:04+02:00"
+                    },
+                    "runwayTime": {
+                        "utc": "2025-09-01 13:38Z",
+                        "local": "2025-09-01 15:38+02:00"
+                    },
+                    "terminal": "2",
+                    "checkInDesk": "B79-B81",
+                    "gate": "U35",
+                    "runway": "25L",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "arrival": {
+                    "scheduledTime": {
+                        "utc": "2025-09-01 16:00Z",
+                        "local": "2025-09-01 19:00+03:00"
+                    },
+                    "revisedTime": {
+                        "utc": "2025-09-01 16:35Z",
+                        "local": "2025-09-01 19:35+03:00"
+                    },
+                    "terminal": "E",
+                    "quality": [
+                        "Basic",
+                        "Live"
+                    ]
+                },
+                "number": "BT 684",
+                "callSign": "BTI26R",
+                "status": "Arrived",
+                "codeshareStatus": "IsOperator",
+                "isCargo": false,
+                "aircraft": {
+                    "reg": "YR-ABA",
+                    "modeS": "4A0441",
+                    "model": "Airbus A319"
+                },
+                "airline": {
+                    "name": "airBaltic",
+                    "iata": "BT",
+                    "icao": "BTI"
+                }
+            }
+        ]
+    }
+]
